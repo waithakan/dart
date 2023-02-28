@@ -10,6 +10,7 @@ class Animal {
   }
 
 }
+//main function should be outside the class function
 void main() {
     Animal animal = Animal();
     animal.name = "Dog";
